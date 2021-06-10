@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Vinícius Knob from Brazil (🇧🇷). I've been working as Fullstack Developer since 2012 and currently I'm Senior Back-end Developer at [Compasso UOL](http://www.compasso.com.br/).
+My name is Vinícius Knob from Brazil (🇧🇷). I've been working as Fullstack Developer since 2012 and currently I'm Senior Back-end Developer at [Compasso UOL](https://compassouol.com/).
 
 How to reach me:
 
